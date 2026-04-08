@@ -119,7 +119,7 @@ HELP_MEDIA =					\
 # LINGUAS and HELP_LINGUAS, but this Makefile.am assumes that files for
 # all languages in HELP_LINGUAS can be created.
 
-HELP_LINGUAS = cs de el es fr pt_BR sl zh_CN
+HELP_LINGUAS = cs de el es fr pt_BR sl sr zh_CN
 
 MAINTAINERCLEANFILES = html/*.html $(srcdir)/html/*.html
 
